@@ -13,3 +13,8 @@ Answer: Rebasing consists of putting the changes of a branch on top of another a
         a linear history. This may remove unnecesary merge commits, although it could be risky.
         On the other hand, merging simply conserves both branches and joins one into another,
         preserving the original changes done to each branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learn a lot about data science techniques, databases and machine learning
+        algorithms to make accurate decisions based on the given data.
